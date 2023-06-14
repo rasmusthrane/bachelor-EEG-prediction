@@ -9,4 +9,5 @@ src contains all code. Inside you find
   <li>data_utils.py: utility functions</li>
   <li>lightTransformer.py: code for the pytorch lightning implementation</li>
 </ul>
+<br>
 model_checkpoints contains the trained models (except for transf3 as too big).
